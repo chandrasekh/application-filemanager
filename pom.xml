@@ -54,9 +54,9 @@
     <url>http://jira.xwiki.org/browse/FILEMAN</url>
   </issueManagement>
   <scm>
-    <connection>scm:git:git://github.com/xwiki-contrib/application-filemanager.git</connection>
-    <developerConnection>scm:git:git@github.com:xwiki-contrib/application-filemanager.git</developerConnection>
-    <url>https://github.com/xwiki-contrib/application-filemanager/tree/master</url>
+    <connection>scm:git:git@github.com:chandrasekh/application-filemanager.git</connection>
+    <developerConnection>scm:git:git@github.com:chandrasekh/application-filemanager.git</developerConnection>
+    <url>https://github.com/chandrasekh/application-filemanager.git</url>
     <tag>HEAD</tag>
   </scm>
   <distributionManagement>
